@@ -120,17 +120,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=tokyonight&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=30363d&count_private=true&hide_border=false"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=tokyonight&title_color=39ff85&text_color=e2e8f0&border_color=30363d&langs_count=8&hide_border=false"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roxtj&theme=tokyonight&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&border=30363d)](https://git.io/streak-stats)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=roxtj&theme=tokyonight&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&sideLabels=aaaaaa&dates=888888&border=30363d" width="55%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=roxtj&theme=tokyonight&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxtj&bg_color=1a1b27&color=39ff85&line=00c9ff&point=a78bfa&area=true&hide_border=true" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roxtj&bg_color=1a1b27&color=39ff85&line=00c9ff&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

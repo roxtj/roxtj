@@ -120,14 +120,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=dark&bg_color=0d1117&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=1e1e2e&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=dark&bg_color=0d1117&title_color=39ff85&text_color=e2e8f0&border_color=1e1e2e&hide_border=false&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=1e1e2e&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=github_dark&bg_color=0d1117&title_color=39ff85&text_color=e2e8f0&border_color=1e1e2e&hide_border=false&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roxtj&theme=dark&background=0d1117&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&sideLabels=aaaaaa&dates=555555&border=1e1e2e" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roxtj&theme=github_dark&background=0d1117&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&sideLabels=aaaaaa&dates=555555&border=1e1e2e" width="50%"/>
 
 </div>
 

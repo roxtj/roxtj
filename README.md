@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=0d1117&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🤖+AI+Systems+Engineer+in+Progress+%7C+Applied+ML+Enthusiast;⚡+3×+Patent+Inventor+%7C+Full-Stack+%7C+GenAI+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&weight=700&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🤖+AI+Systems+Engineer+%7C+Applied+ML+Enthusiast;⚡+3×+Patent+Inventor+%7C+Full-Stack+%7C+GenAI+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +24,10 @@
 
 <div align="center">
 
-![AI Systems](https://img.shields.io/badge/🤖%20AI%20Systems%20Engineer-in%20progress-39ff85?style=flat-square&labelColor=0d1117)&nbsp;
-![Applied ML](https://img.shields.io/badge/🧠%20Applied%20ML-Specialist-00c9ff?style=flat-square&labelColor=0d1117)&nbsp;
-![Full Stack](https://img.shields.io/badge/⚡%20Full--Stack-Engineer-a78bfa?style=flat-square&labelColor=0d1117)&nbsp;
-![Patents](https://img.shields.io/badge/📜%20Patents-3×%20Inventor-f97316?style=flat-square&labelColor=0d1117)
+![AI Systems](https://img.shields.io/badge/🤖_AI_Systems_Engineer-in_progress-39ff85?style=flat-square&labelColor=0d1117)&nbsp;
+![Applied ML](https://img.shields.io/badge/🧠_Applied_ML-Specialist-00c9ff?style=flat-square&labelColor=0d1117)&nbsp;
+![Full Stack](https://img.shields.io/badge/⚡_Full--Stack-Engineer-a78bfa?style=flat-square&labelColor=0d1117)&nbsp;
+![Patents](https://img.shields.io/badge/📜_Patents-3×_Inventor-f97316?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -81,10 +81,10 @@
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0a0a0f?style=flat-square&logoColor=39ff85&color=16161f&labelColor=16161f)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-16161f?style=flat-square)
-![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-16161f?style=flat-square)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-16161f?style=flat-square&logo=onnx&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-16161f?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-16161f?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-16161f?style=flat-square)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-16161f?style=flat-square&logo=onnx&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-16161f?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -93,11 +93,11 @@
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-16161f?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-555555?style=flat-square)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -109,7 +109,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -120,14 +120,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=dark&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=30363d&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=dark&title_color=39ff85&text_color=e2e8f0&border_color=30363d&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=tokyonight&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=30363d&count_private=true&hide_border=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=tokyonight&title_color=39ff85&text_color=e2e8f0&border_color=30363d&langs_count=8&hide_border=false"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roxtj&theme=github_dark&background=0d1117&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&sideLabels=aaaaaa&dates=555555&border=1e1e2e" width="50%"/>
+<img src="https://streak-stats.demolab.com/?user=roxtj&theme=tokyonight&ring=39ff85&fire=00c9ff&currStreakLabel=39ff85&sideLabels=aaaaaa&dates=888888&border=30363d" width="55%"/>
 
 </div>
 
@@ -137,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxtj&bg_color=0d1117&color=00AA44&line=00c9ff&point=a78bfa&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxtj&bg_color=1a1b27&color=39ff85&line=00c9ff&point=a78bfa&area=true&hide_border=true" width="100%"/>
 
 </div>
 

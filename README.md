@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=222222&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🤖+AI+Systems+Engineer+in+Progress+%7C+Applied+ML+Enthusiast;⚡+3×+Patent+Inventor+%7C+Full-Stack+%7C+GenAI+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=0d1117&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=60&lines=🤖+AI+Systems+Engineer+in+Progress+%7C+Applied+ML+Enthusiast;⚡+3×+Patent+Inventor+%7C+Full-Stack+%7C+GenAI+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -120,8 +120,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=github_dark&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=30363d&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=github_dark&title_color=39ff85&text_color=e2e8f0&border_color=30363d&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxtj&show_icons=true&theme=dark&title_color=39ff85&icon_color=00c9ff&text_color=e2e8f0&border_color=30363d&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxtj&layout=compact&theme=dark&title_color=39ff85&text_color=e2e8f0&border_color=30363d&langs_count=8"/>
 
 </div>
 

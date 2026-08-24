@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thirunavukkarasu%20J&fontSize=42&fontColor=39ff85&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20II%20%7C%20Distributed%20Systems%20%7C%20AI%20%26%20ML&descAlignY=58&descColor=aaaaaa&descSize=16" width="100%"/>
-
 </div>
 
 <div align="center">

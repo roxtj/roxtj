@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thirunavukkarasu%20J&fontSize=42&fontColor=39ff85&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20II%20%E2%86%92%20AI%20Systems%20%7C%20Applied%20ML&descAlignY=58&descColor=aaaaaa&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thirunavukkarasu%20J&fontSize=42&fontColor=39ff85&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20II%20%7C%20Distributed%20Systems%20%7C%20AI%20%26%20ML&descAlignY=58&descColor=aaaaaa&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&weight=700&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🤖+AI+Systems+Engineer+%7C+Applied+ML+Enthusiast;⚡+3×+Patent+Inventor+%7C+Full-Stack+%7C+GenAI+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&weight=700&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🚀+Software+Engineer+II+%7C+Distributed+Systems+%7C+Dell+Tech;⚡+3×+Patent+Inventor+%7C+Microservices+%7C+GenAI+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-![AI Systems](https://img.shields.io/badge/🤖_AI_Systems_Engineer-in_progress-39ff85?style=flat-square&labelColor=0d1117)&nbsp;
-![Applied ML](https://img.shields.io/badge/🧠_Applied_ML-Specialist-00c9ff?style=flat-square&labelColor=0d1117)&nbsp;
-![Full Stack](https://img.shields.io/badge/⚡_Full--Stack-Engineer-a78bfa?style=flat-square&labelColor=0d1117)&nbsp;
+![Distributed Systems](https://img.shields.io/badge/🚀_Distributed_Systems_Engineer-Production-39ff85?style=flat-square&labelColor=0d1117)&nbsp;
+![Microservices](https://img.shields.io/badge/⚙️_Microservices_Specialist-Expert-00c9ff?style=flat-square&labelColor=0d1117)&nbsp;
+![Backend Engineering](https://img.shields.io/badge/🔧_Backend_Engineering-Core-a78bfa?style=flat-square&labelColor=0d1117)&nbsp;
 ![Patents](https://img.shields.io/badge/📜_Patents-3×_Inventor-f97316?style=flat-square&labelColor=0d1117)
 
 </div>
@@ -40,25 +40,25 @@
 <td width="50%">
 
 🔭 &nbsp;**Currently Working On**
-> Agentic AI systems, RAG pipelines, and LLM-powered full-stack applications
+> Building distributed systems at Dell Technologies, event-driven architectures, and AI-powered solutions
 
 👥 &nbsp;**Looking to Collaborate On**
-> Open-source LLM projects, AI agents, applied ML tools, and GenAI experiments
+> Open-source distributed systems, microservices patterns, AI infrastructure, and GenAI integrations
 
 💛 &nbsp;**Looking for Help With**
-> Deepening expertise in ML fundamentals, model fine-tuning, and AI systems design
+> Scaling distributed systems, advanced system design patterns, and production AI/ML deployments
 
 </td>
 <td width="50%">
 
 🌱 &nbsp;**Currently Learning**
-> LLM internals, ML system design, AI infrastructure & latest AI research
+> Advanced AI/ML integration patterns, cloud-native architecture, and cutting-edge GenAI technologies
 
 💬 &nbsp;**Ask Me About**
-> Building AI systems end-to-end, RAG, LLM orchestration, full-stack dev, or latest GenAI
+> Distributed systems design, microservices architecture, event-driven systems, Kafka, Spring Boot, or AI integration in production
 
 ⚡ &nbsp;**Fun Fact**
-> I hold 3 patents in multi-agent AI & computer vision — and I'm just getting started!
+> I hold 3 patents in multi-agent AI, computer vision, and federated RAG — applying innovation to real-world distributed systems!
 
 </td>
 </tr>
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-| 📜 3× Patent Inventor | 🏅 Regional Hackathon Winner | 🎤 Tech Forum Speaker | 🤖 GenAI Platform Builder |
+| 📜 3× Patent Inventor | 🏅 Dell CSG Hackathon Winner 2025 | 🎤 AI Academy Speaker 2025 | 🚀 Production Systems at Dell |
 |:---:|:---:|:---:|:---:|
-| Multi-agent GenAI, computer vision confidence recovery & federated RAG orchestration | Regional Winner — CSG Hackathon 2024 | Presented at AI Academy Sparks Tech Forum 2025 | Built enterprise AI model hub standardizing NPU-optimized model access |
+| Multi-agent AI, computer vision confidence recovery & federated RAG orchestration | Regional Winner — Dell CSG Hackathon 2025 | Presented at AI Academy Sparks Tech Forum 2025 | Led 5+ production microservices, distributed document processing, and Kafka-based workflows |
 
 </div>
 
@@ -81,23 +81,22 @@
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-16161f?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-16161f?style=flat-square)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-16161f?style=flat-square)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-16161f?style=flat-square)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-16161f?style=flat-square&logo=onnx&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-16161f?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-16161f?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-16161f?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-16161f?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-555555?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -113,6 +112,25 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### ⚡ Distributed Systems
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event_Driven-555555?style=flat-square)
+![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-555555?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 📊 Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Distributed Tracing](https://img.shields.io/badge/Distributed_Tracing-555555?style=flat-square)
+
+### 🏗️ System Design
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-555555?style=flat-square)
+![Caching](https://img.shields.io/badge/Caching-555555?style=flat-square)
+![Circuit Breakers](https://img.shields.io/badge/Circuit_Breakers-555555?style=flat-square)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-555555?style=flat-square)
 
 ---
 
@@ -140,6 +158,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>🤖 Actively transitioning into <strong>AI Systems Engineering</strong> & <strong>Applied ML</strong> · Open to collabs & opportunities</sub>
+<sub>🚀 Building distributed systems & AI-powered solutions at Dell Technologies · Open to collabs & opportunities</sub>
 
 </div>
